@@ -8,19 +8,18 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizCarlos255&show_icons=true&count_private=true&hide_border=F609B2true&title_color=F609B2&icon_color=F6EB09&text_color=F6EB09&bg_color=0d1117" alt="Estatísticas do GitHub de Luiz Carlos"
        /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCarlos255&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+<br>
+<br>
 
 🟡Principais habilidades:<img align="center" alt="Luiz-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <br>
 <br>
 🟡Estudando Atualmente:<img align="center" alt="Luiz-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+ 
 <div align="center">
 <img align="right" alt="Sakura-pic" height="200" style="border-radius:50px;" src="https://66.media.tumblr.com/36e692aed440025ff95602a0a7106432/tumblr_p2l5jteSrK1vi1o3co1_500.gif">  
 </div> 
-
+<br>
 <br>
 <div align="center">
 <br><p align="center"><font color="FF33E6">Visitors Count</font></p>
